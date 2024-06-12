@@ -22,7 +22,7 @@ Este plano de estudo é um guia completo e estruturado para aprender programaç�
 ### **Plano Semanal**
 
 ### **Semana 1-2: Fundamentos de Programação e Introdução a C/C++:**
-- [X] **1.** **Introdução à lógica de programação**: Estudo dos conceitos fundamentais de lógica de programação, incluindo algoritmos, fluxogramas e pseudocódigos.  
+:white_check_mark: **1.** **Introdução à lógica de programação**: Estudo dos conceitos fundamentais de lógica de programação, incluindo algoritmos, fluxogramas e pseudocódigos.  
 **Recursos:**  
     - [Codecademy](https://www.codecademy.com/learn/learn-c-plus-plus): Curso interativo sobre C++ e lógica de programação.
     - [w3schools](https://www.w3schools.com/c/): Fundamentos de C com exemplos práticos e exercícios.
