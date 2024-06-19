@@ -8,10 +8,10 @@ Este curso está organizado com base nos princípios de "Ultraaprendizado" de Sc
 
 ## Conceitos
 
-- [ ] **1. Conceitos Básicos de Jogos**
+- [x] **1. Conceitos Básicos de Jogos**
   - **O que é um jogo?**
-    - [ ] [Khan Academy - História dos Jogos](https://www.khanacademy.org/computing/computer-programming/games)
-    - [ ] [Game Design Concepts (Ian Schreiber)](http://gamedesignconcepts.wordpress.com)
+    - [x] [Khan Academy - História dos Jogos](https://www.khanacademy.org/computing/computer-programming/games)
+    - [x] [Game Design Concepts (Ian Schreiber)](http://gamedesignconcepts.wordpress.com)
 
 - [ ] **2. Introdução ao Desenvolvimento com Unity**
   - **O que é a Unity?**
